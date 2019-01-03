@@ -1,7 +1,7 @@
 # AI-Plays-FlappyBird
 Using genetic algorithm and neural networks to teach AI to play flappy bird. Inspired by [this project](https://github.com/pakoito/MarI-O) and [this paper](http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf). The dashboard in the html page is inspired by [this website](http://rednuht.org/genetic_walkers/).
 
-You can try this project in [this page](https://tsreaper.github.io/AI-Plays-FlappyBird/).
+You can try this project in your browser. Just clone this repository and run the index.html file.
 
 ## Goals
 - [x] Make a flappy bird game
@@ -13,7 +13,7 @@ You can try this project in [this page](https://tsreaper.github.io/AI-Plays-Flap
 - [ ] ~~Finish the "compete with AI" function~~ Too complicated and will make my code messy (though it is already a mess now). I give up...
 
 ## Results and Notes
-<img src="https://github.com/TsReaper/AI-Plays-FlappyBird/blob/master/result.png" align="right">
+<img src="https://github.com/yaduvendra/AI-Plays-FlappyBird-master/blob/master/result.png" align="right">
 
 ### 2016/06/20
 Rewrite the whole project in a syntax which is easier(?) to read and add the "enable animation" function.
